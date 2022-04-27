@@ -15,7 +15,7 @@
   Matrix resource management, Recruiting, Coaching, Software Engineering, Task management, Quality Obligation, Backlog management, Source Control (Git/TFS), QA, Version management (DevOps), MS Project.
 + Senior developer: 15+ years 
   SDK / API, Plug-in, Actions, Workflow assemblies, Report Service (SSRS), Web Resource (HTML / Java Script), Security Management, ERD / DFD / Use Case / UML, Power Shell, VBS. 
-+	SaaS / Google / Cloude developer: 5+ years
++	SaaS / Google / Cloud developer: 5+ years
   Marketplace addons for Google Workspace Administrators (100K)
   GCP, Admin API, Marketplace SDK, Domain Wide authority Delegation, Service Account (S2S) over OAuth 2.0 Client (2-legged in OAuth), DevOps.
   C# / ASP.NET / Web API / MVC / Azure / SQL
