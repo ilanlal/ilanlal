@@ -2,7 +2,7 @@
 
 
 
-- 📫 [About Me](https://www.easyadm.com/about-me](https://www.easyadm.com/about-ilan-laloum)
+- 📫 [About Me](https://www.easyadm.com/about-ilan-laloum)
 
 <!---
 ilanlal/ilanlal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
